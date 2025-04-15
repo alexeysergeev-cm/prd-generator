@@ -13,7 +13,7 @@ A comprehensive application for creating, managing, and collaborating on Product
 ## Technology Stack
 
 ### Frontend
-- Next.js 14
+- Next.js 13
 - React 18
 - Material UI
 - React Query
