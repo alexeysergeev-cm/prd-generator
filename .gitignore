@@ -8,6 +8,12 @@ coverage/
 
 # Production
 build/
+dist/
+
+# Next.js
+.next/
+out/
+.vercel
 
 # Environment files
 .env
